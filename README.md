@@ -60,4 +60,5 @@ This pipeline follows a strict, multi-stage Data Engineering pattern:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ZackDev10/atlas-excel-to-postgres.git](https://github.com/)
+   git clone [https://github.com/ZackDev10/atlas-excel-to-postgres.git](https://github.com/ZackDev10/Atlas-Coop.git
+)
