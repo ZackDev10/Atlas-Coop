@@ -47,8 +47,7 @@ This pipeline follows a strict, multi-stage Data Engineering pattern:
 
 
 ### 2. The Final PostgreSQL Database
-> Showing the populated production tables and relationships.
-![PostgreSQL Database Proof](path/to/database_screenshot.png)
+<img width="1155" height="585" alt="Atlas-coop-ERD" src="https://github.com/user-attachments/assets/f4064ca4-b5c1-4c40-8f26-541b0aedd31d" />
 
 ### 3. The Rejects Log (Handling Bad Data)
 > Showing how the system handles missing data without crashing.
@@ -58,5 +57,5 @@ This pipeline follows a strict, multi-stage Data Engineering pattern:
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ZackDev10/atlas-excel-to-postgres.git](https://github.com/ZackDev10/Atlas-Coop.git
-)
+   git clone [https://github.com/ZackDev10/atlas-excel-to-postgres.git](https://github.com/ZackDev10/Atlas-Coop.git)
+
