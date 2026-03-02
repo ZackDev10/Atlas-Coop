@@ -52,7 +52,7 @@ This pipeline follows a strict, multi-stage Data Engineering pattern:
 ### 3. The Rejects Log (Handling Bad Data)
 <img width="1438" height="853" alt="image" src="https://github.com/user-attachments/assets/28ffb772-5a28-48ef-bd54-3e30e1aadb15" />
 
-### 3. Here's the Full Result as a CSV File:
+### Here's the Full Result as a CSV File:
 
 [data-1772446311244.csv](https://github.com/user-attachments/files/25680962/data-1772446311244.csv)
 
