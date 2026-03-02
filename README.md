@@ -42,11 +42,9 @@ This pipeline follows a strict, multi-stage Data Engineering pattern:
 
 ## 📸 Proof of Concept & Screenshots
 
-*(Add your screenshots below! Replace the placeholder links with your actual image paths once uploaded to your repo)*
-
 ### 1. The Terminal Execution & Automated Reporting
-> Shows the script successfully extracting 10,000+ rows and generating the diagnostic Markdown report.
-![ETL Terminal Execution](path/to/terminal_screenshot.png)
+<img width="1642" height="242" alt="image" src="https://github.com/user-attachments/assets/bd981194-1a67-432d-b611-de68eb2dcea4" />
+
 
 ### 2. The Final PostgreSQL Database
 > Showing the populated production tables and relationships.
